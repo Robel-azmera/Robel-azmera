@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robel-azmera
 - 👀 I’m interested in ... Coding 
-- 🌱 I’m currently learning ...  node js
+- 🌱 I’m currently learning ...  node js, laravel, vueJs
 - 💞️ I’m looking to collaborate on ...  Flutter , node js , Hasura , Go
 - 📫 How to reach me ... robazmera@gmail.com - 0919813323
 
